@@ -29,7 +29,7 @@
 * GeekBrains - Web Developer Course
 * Python - Making games in Python (Victor Trofimov)(MobileApp)
 
-#### English A3-B1 
+#### English A2-B1 
 
 
 #### Codewars code:
